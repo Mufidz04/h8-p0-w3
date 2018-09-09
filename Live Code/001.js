@@ -28,3 +28,4 @@ Jika uang anak tidak mencukupi satupun dari permainan tersebut, maka tampilkan "
     6b 'uang' sama dengan 'sisa'
 7. Tampilkan "Nabung lagi ya, dek!"
 8. Tampilkan "Sisa Kembali anda" +(uang-sisa)
+9. Selesai

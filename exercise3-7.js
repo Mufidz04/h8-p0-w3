@@ -1,8 +1,7 @@
 function hitungJumlahKata(kalimat) {
     // you can only write your code here!
     var kata = kalimat.split(' ')
-    var hasil = kalimat.length
-    
+    var hasil = kata.length
     return hasil
   }
   
